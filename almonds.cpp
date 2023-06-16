@@ -8,7 +8,6 @@
 #include <iostream>
 #include <vector>
 #include <fstream>
-#include <thread>
 
 
 // Defining the algorithms
